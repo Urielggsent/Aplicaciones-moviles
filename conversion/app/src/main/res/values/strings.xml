@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Transformacion</string>
+    <string name="instruccion1">Selecciona una opcion</string>
+    <string name="btn1">PESO</string>
+    <string name="btn2">LONGITUD</string>
+    <string name="btn3">TEMPERATURA</string>
+    <string name="btn4">VOLUMEN</string>
+    <string name="Resultado">RESULTADO</string>
+    <string name="btnCalcular">CALCULAR</string>
+    <string name="Instruccion">Primera cantidad:</string>
+    <string name="Instruccion2">Segunda cantidad:</string>
+    <string-array name="spinnerPeso">
+        <item>Gramo</item>
+        <item>Miligramo</item>
+        <item>Kilogramo</item>
+        <item>Onza</item>
+        <item>Libra</item>
+    </string-array>
+    <string-array name="spinnerLongitud">
+        <item>Metro</item>
+        <item>Centímetro</item>
+        <item>Milímetro</item>
+        <item>Kilómetro</item>
+    </string-array>
+    <string-array name="spinnerTemperatura">
+        <item>Fahrenheit</item>
+        <item>Celsius</item>
+        <item>Kelvin</item>
+    </string-array>
+    <string-array name="spinnerVolumen">
+        <item>Litro</item>
+        <item>Mililitro</item>
+    </string-array>
+
+</resources>

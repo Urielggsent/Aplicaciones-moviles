@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Mi Reproductor de Video</string>
+    <string name="load_video">Cargar video</string>
+    <string name="play_video">Reproducir video</string>
+    <string name="create_playlist">Crear lista de reproducción</string>
+    <string name="playlist_activity_title">Crear lista de reproducción</string>
+    <string name="video_not_selected">Por favor selecciona un video</string>
+    <string name="file_selected">Archivo seleccionado: %1$s</string>
+
+</resources>
